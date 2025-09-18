@@ -7,6 +7,9 @@
 
 ---
 
+https://web.seducoahuila.gob.mx/biblioweb/upload/lostrescerditos_ilustrado.pdf
+
+
 ### **Resumen Ejecutivo**
 
 Realicé un análisis forense de los metadatos del archivo PDF `lostrescerditos_ilustrado.pdf` para determinar su autenticidad e identificar cualquier evidencia de manipulación. Mi investigación revela que el documento ha sido alterado. La evidencia sugiere que el archivo original se llamaba `aaa_blancanieves` y fue creado con un software de terceros. La inconsistencia en el nombre y el título del documento es un indicador clave de que el archivo fue modificado con la intención de ofuscar su origen.
